@@ -1,0 +1,39 @@
+LICENSE CERTIFICATE : Envato Market Item
+==============================================
+
+This document certifies the purchase of:
+ONE REGULAR LICENSE
+as defined in the standard terms and conditions on Envato Market.
+
+Licensor's Author Username:
+InspireUI
+
+Licensee:
+Sense Digital Sas
+
+Item Title:
+Fluxstore WooCommerce - Flutter E-commerce Full App
+
+Item URL:
+https://codecanyon.net/item/fluxstore-woocommerce-flutter-ecommerce-full-app/24050041
+
+Item ID:
+24050041
+
+Item Purchase Code:
+6561c8a3-0946-4598-9602-a06ff525ee93
+
+Api key 
+
+Clave del cliente: ck_a4ac29f72e24c83e813f015475468c031ff3e847
+Clave secreta de cliente: cs_81c69bb006a7c6e145587b29d972180410678790
+
+Purchase Date:
+2022-08-23 17:00:31 UTC
+
+For any queries related to this document or license please contact Help Team via https://help.market.envato.com
+
+Envato Pty Ltd (11 119 159 741)
+Level 3 551 Swanston Street, Carlton, VIC 3053, Australia
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
+
